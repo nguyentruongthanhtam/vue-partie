@@ -1,6 +1,16 @@
 # partie
 
-> A Vue.js project
+> A partime shift manager project build with Vue.js, Firebase and Bulma
+
+Features: 
+  - Firebase EMAIL Authentication method.
+  - Bulma responsive UI design.
+  - Upto 5 shifts for each calendar week.
+  - Intuitive design.
+  - Ability to fix or delete shifts within few clicks.
+ 
+
+
 
 ## Build Setup
 
